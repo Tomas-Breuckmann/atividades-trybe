@@ -3,8 +3,11 @@ O curso iniciou no dia 8/11/2021. São mais de 1500h de curso dentro de um perí
 
 O programa até o dia de hoje, 17/11/2021, foi:
 
-:file_folder: <h1>Módulo1 - Fundamentos</h1>
-Bloco1 - Unix e Bash <br>
-Dia 3 - Unix e Bash <br>
-Dia 4 - Unix e Bash <br>
-Bloco2 - Git e GitHub
+<h3> :file_folder: Módulo1 - Fundamentos</h3>
+:arrow_right: Bloco1 - Unix e Bash <br>
+:heavy_check_mark: Dia 3 - Unix e Bash <br>
+:heavy_check_mark: Dia 4 - Unix e Bash <br>
+
+:arrow_right: Bloco2 - Git e GitHub <br>
+:heavy_check_mark: Dia 1 - O que é, instalação e configuração. <br>
+:heavy_check_mark: Dia 2 - Entendendo comandos <br>
