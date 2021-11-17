@@ -3,6 +3,6 @@ O curso iniciou no dia 8/11/2021. São mais de 1500h de curso dentro de um perí
 
 O programa até o dia de hoje, 17/11/2021, foi:
 
-:file_folder: Mod1 - Fundamentos
+:file_folder: Mod1 - Fundamentos <br>
 Bloco1 - Unix e Bash
 Bloco2 - Git e GitHub
