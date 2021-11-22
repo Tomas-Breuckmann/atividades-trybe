@@ -1,0 +1,29 @@
+body{
+    font-size: 16px;
+}
+h1{
+    font-size: 65px;
+    color: orange;
+    font-family: sans-serif;
+}
+p{
+    font-weight: 600;
+    font-size: 2em;
+    font-style: normal;
+    line-height: 40pt;
+}
+ul{
+    background-color: rgb(30, 145, 65);
+} 
+.p-e-ul{
+    background-color: rgb(139, 119, 156);
+}   
+#li_mar {
+  color: brown
+}
+#li_ama {
+  color: yellow
+}
+#li_ver {
+  color: red
+}
