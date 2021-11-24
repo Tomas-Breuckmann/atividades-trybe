@@ -1,0 +1,11 @@
+li {
+    display: inline-block;
+}
+.header{
+    background: rgb(76, 117, 206);
+    padding: 10px;
+}
+.footer{
+    background: rgb(76, 117, 206);
+    padding: 10px;
+}
