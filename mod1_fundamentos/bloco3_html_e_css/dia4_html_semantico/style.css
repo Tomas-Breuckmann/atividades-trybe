@@ -5,6 +5,12 @@ li {
     background: rgb(76, 117, 206);
     padding: 10px;
 }
+.links{
+    background: sandybrown;
+}
+.article{
+    background: silver;
+}
 .footer{
     background: rgb(76, 117, 206);
     padding: 10px;
